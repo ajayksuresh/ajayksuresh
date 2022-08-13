@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @ajay, I am a developer in Amazon,
+- 👋 Hi, I’m @ajay, I am a web developer.
